@@ -1,6 +1,0 @@
-${PODS_ROOT}/Target Support Files/Pods-ReadSpeed/Pods-ReadSpeed-frameworks.sh
-${BUILT_PRODUCTS_DIR}/Dropdowns/Dropdowns.framework
-${BUILT_PRODUCTS_DIR}/ReactiveKit/ReactiveKit.framework
-${BUILT_PRODUCTS_DIR}/TextAttributes/TextAttributes.framework
-${BUILT_PRODUCTS_DIR}/VerticalSlider/VerticalSlider.framework
-${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework

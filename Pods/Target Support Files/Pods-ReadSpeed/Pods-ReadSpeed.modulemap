@@ -1,6 +1,0 @@
-framework module Pods_ReadSpeed {
-  umbrella header "Pods-ReadSpeed-umbrella.h"
-
-  export *
-  module * { export * }
-}
